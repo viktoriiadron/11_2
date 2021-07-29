@@ -1,10 +1,10 @@
 // 1
-    let vegetable = {
-        name: 'onion',
-        color: 'white',
+let vegetable = {
+    name: 'onion',
+    color: 'white',
 }
 
-    const { name, color } = vegetable;
+const { name, color } = vegetable;
 console.log(`${name}s are usually ${color}`);
 
 // 2
