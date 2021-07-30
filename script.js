@@ -11,7 +11,7 @@ console.log(`${name}s are usually ${color}`);
 
 const { shape = 'round' } = vegetable;
 console.log(`${name}s are usually ${shape}`);
-
+// нужно было vegetable.shape = 'round'
 // 3
 
 let vegetables = [
